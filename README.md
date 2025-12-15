@@ -1,1 +1,1 @@
-This project about single page Curriculam Vite. This page Design using HTML only. So No need other software setup except a browser. Simply , click double click on index.html file. Page will appear default browser. 
+This project is about single page Curriculam Vite. This page has design using only HTML. So No need other softwares setup except a browser. Simply, double click on index.html file. Page will appear on default browser. 
